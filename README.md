@@ -84,7 +84,7 @@ pip install pandas numpy matplotlib sklearn
 ## 🔧 Running the Project:
 **1. Clone the repository:**
   ```bash
-  git clone https://github.com/your-username/cancer-regression.git
+  git clone https://github.com/Sahil00017/Cancer-Regression-Model
   ```
 **2. Navigate to the project folder:**
   ```bash
